@@ -1,0 +1,17 @@
+/Volumes/back_up/coding/csharp/lottery-number-generator/bin/Debug/net6.0/lottery-number-generator
+/Volumes/back_up/coding/csharp/lottery-number-generator/bin/Debug/net6.0/lottery-number-generator.deps.json
+/Volumes/back_up/coding/csharp/lottery-number-generator/bin/Debug/net6.0/lottery-number-generator.runtimeconfig.json
+/Volumes/back_up/coding/csharp/lottery-number-generator/bin/Debug/net6.0/lottery-number-generator.dll
+/Volumes/back_up/coding/csharp/lottery-number-generator/bin/Debug/net6.0/lottery-number-generator.pdb
+/Volumes/back_up/coding/csharp/lottery-number-generator/obj/Debug/net6.0/lottery-number-generator.csproj.AssemblyReference.cache
+/Volumes/back_up/coding/csharp/lottery-number-generator/obj/Debug/net6.0/lottery-number-generator.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/back_up/coding/csharp/lottery-number-generator/obj/Debug/net6.0/lottery-number-generator.AssemblyInfoInputs.cache
+/Volumes/back_up/coding/csharp/lottery-number-generator/obj/Debug/net6.0/lottery-number-generator.AssemblyInfo.cs
+/Volumes/back_up/coding/csharp/lottery-number-generator/obj/Debug/net6.0/lottery-number-generator.csproj.CoreCompileInputs.cache
+/Volumes/back_up/coding/csharp/lottery-number-generator/obj/Debug/net6.0/lottery-number-generator.dll
+/Volumes/back_up/coding/csharp/lottery-number-generator/obj/Debug/net6.0/refint/lottery-number-generator.dll
+/Volumes/back_up/coding/csharp/lottery-number-generator/obj/Debug/net6.0/lottery-number-generator.pdb
+/Volumes/back_up/coding/csharp/lottery-number-generator/obj/Debug/net6.0/lottery-number-generator.genruntimeconfig.cache
+/Volumes/back_up/coding/csharp/lottery-number-generator/obj/Debug/net6.0/ref/lottery-number-generator.dll
+/Volumes/back_up/coding/csharp/lottery-number-generator/bin/Debug/net6.0/Spectre.Console.dll
+/Volumes/back_up/coding/csharp/lottery-number-generator/obj/Debug/net6.0/lottery-number-generator.csproj.CopyComplete

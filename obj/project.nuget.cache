@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s9eycJaEA6APvJ20pcB93pTlJ5aojOHjxCPD1HMaZpnlNhKdAJjNXdi/uEIRX6oakqv0QIn2E+9HyLLNlJeM9A==",
+  "success": true,
+  "projectFilePath": "/Volumes/back_up/coding/csharp/lottery-number-generator/lottery-number-generator.csproj",
+  "expectedPackageFiles": [
+    "/Users/Daniel/.nuget/packages/spectre.console/0.44.0/spectre.console.0.44.0.nupkg.sha512"
+  ],
+  "logs": []
+}
