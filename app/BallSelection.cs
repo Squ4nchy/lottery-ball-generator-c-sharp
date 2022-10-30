@@ -1,3 +1,4 @@
+using System.Linq;
 using domain.LotteryBall;
 
 namespace app.BallSelection
@@ -25,7 +26,6 @@ namespace app.BallSelection
                 LotteryBall newBall = new LotteryBall();
                 while (lotteryBalls.Any(ball => ball.Number == newBall.Number))
                 {
-                    Console.WriteLine($"{newBall.Number} is already in list");
                     newBall = new LotteryBall();
                 }
                 lotteryBalls.Add(newBall);
@@ -34,10 +34,9 @@ namespace app.BallSelection
             return lotteryBalls;
         }
 
-        //Use this method to display the balls after being sorted, i.e. remove the for loop
         public void displaySelectedBalls()
         {
-            Console.WriteLine("Your lottery numbers are:- \n");
+            Console.WriteLine("\nYour lottery numbers are:-");
 
             foreach (LotteryBall ball in lotteryBalls)
             {
@@ -65,7 +64,17 @@ namespace app.BallSelection
                 Console.Write($" {ball.Number} ");
 
                 Console.ResetColor();
+            }
+        }
+
+        public List<LotteryBall> sortBalls()
+        {
+            var newList = from ball in lotteryBalls
+                        orderby ball.Number ascending
+                        select ball;
+            
+            lotteryBalls = newList.ToList();
+            return lotteryBalls;
         }
     }
-}
 }
